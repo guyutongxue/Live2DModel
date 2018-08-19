@@ -1,0 +1,113 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "baozi.moc",
+  "textures": [
+    "baozi.1024/texture_00.png",
+    "baozi.1024/texture_01.png",
+    "baozi.1024/texture_02.png",
+    "baozi.1024/texture_03.png",
+    "baozi.1024/texture_04.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "pinch": [
+      {
+        "file": "motions/pinch/Mbaozi_kun.mtn"
+      },
+      {
+        "file": "motions/pinch/Mbaozi_motoubiyi.mtn"
+      },
+      {
+        "file": "motions/pinch/Mbaozi_motoufouding.mtn"
+      },
+      {
+        "file": "motions/pinch/Mbaozi_motouhaixiu.mtn"
+      },
+      {
+        "file": "motions/pinch/Mbaozi_weixiaochang.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "file": "motions/tap/Mbaozi_dazhaohu.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_fighting.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_haixiu.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_kending.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_motion1.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_motion2.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_motion3.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_nuchang.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_sajiao.mtn"
+      },
+      {
+        "file": "motions/tap/Mbaozi_sikao.mtn"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/Mbaozi_biyi.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_fouding.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_hengge.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_kuazan.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_normal.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_nu.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_PV.mtn"
+      },
+      {
+        "file": "motions/shake/Mbaozi_stand.mtn"
+      }
+    ],
+    "flick": [
+      {
+        "file": "motions/flick/Mbaozi_chidongxi.mtn"
+      },
+      {
+        "file": "motions/flick/Mbaozi_tanqi.mtn"
+      },
+      {
+        "file": "motions/flick/Mbaozi_tiaopi.mtn"
+      },
+      {
+        "file": "motions/flick/Mbaozi_weixiao.mtn"
+      },
+      {
+        "file": "motions/flick/Mbaozi_xiunu.mtn"
+      },
+      {
+        "file": "motions/flick/Mbaozi_youshang.mtn"
+      }
+    ]
+  }
+}

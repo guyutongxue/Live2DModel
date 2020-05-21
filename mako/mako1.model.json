@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "mako1",
+	"model": "mako1.moc",
+	"textures": [
+		"mako1.4096/texture_00.png"
+	]
+}
